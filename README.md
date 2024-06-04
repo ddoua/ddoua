@@ -51,3 +51,5 @@ Pract2- No ordenador vello instalamos Mosquitto e Node-Red no Noovi e tamén os 
 • Relé
 • Placa de conexións
 • Cables M-F
+
+![maqueta24](https://github.com/ddoua/ddoua/assets/171036079/5c94b405-7d60-4764-b4a8-de94a7632c30)
