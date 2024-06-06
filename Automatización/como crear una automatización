@@ -1,0 +1,31 @@
+    Paso 1: Inicia sesión en Home Assistant: Accede a la interfaz web de Home Assistant desde tu navegador. La URL suele ser http://homeassistant.local:8123 o la dirección IP de tu dispositivo Home Assistant.
+
+    Paso 2: Navega a la sección de Automatizaciones
+
+    Panel de Configuración: En la barra lateral izquierda, haz clic en "Configuración".
+    Automatizaciones: En la sección de "Automatizaciones y Escenas", selecciona "Automatizaciones".
+
+    Paso 3: Crear una nueva automatización
+
+    Nueva Automatización: Haz clic en el botón "+" para crear una nueva automatización.
+    Elegir Plantilla: Puedes elegir entre una automatización en blanco o basarte en una plantilla existente.
+
+    Paso 4: Configura los detalles de la automatización
+
+    Nombre y Descripción: Asigna un nombre y una descripción a tu automatización para identificarla fácilmente.
+
+    Paso 5: Definir el Trigger 
+
+    Agregar Trigger: Haz clic en "Agregar Trigger".
+    Seleccionar Tipo de Trigger: Elige el tipo de evento que desencadenará la automatización. Puede ser un cambio de estado de un dispositivo, una hora específica, un evento del calendario, etc.
+    Configurar Detalles del Trigger: Configura los detalles específicos del trigger, como el dispositivo, el estado, la hora, etc.
+
+    Paso 7: Definir las Acciones
+
+    Agregar Acción: Haz clic en "Agregar Acción".
+    Seleccionar Tipo de Acción: Elige la acción que quieres que se realice (encender/apagar un dispositivo, enviar una notificación, ejecutar un script, etc.).
+    Configurar Detalles de la Acción: Configura los detalles específicos de la acción, como el dispositivo a controlar y el estado que debe alcanzar.
+
+    Paso 8: Guardar la Automatización
+
+    Guardar: Revisa la configuración de tu automatización y haz clic en "Guardar".
