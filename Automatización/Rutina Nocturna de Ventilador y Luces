@@ -1,0 +1,10 @@
+Rutina Nocturna de Ventilador y Luces
+
+Objetivo: Apagar las luces y encender el ventilador al anochecer si la temperatura es alta.
+
+    Trigger: El sol se pone.
+    Condición: La temperatura es mayor que 25°C.
+
+    Acción:
+        Apagar las luces.
+        Encender el ventilador.
