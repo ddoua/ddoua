@@ -1,4 +1,4 @@
-Rutina Nocturna de Ventilador y Luces
+-Rutina Nocturna de Ventilador y Luces
 
 Objetivo: Apagar las luces y encender el ventilador al anochecer si la temperatura es alta.
 
@@ -8,3 +8,27 @@ Objetivo: Apagar las luces y encender el ventilador al anochecer si la temperatu
     Acción:
         Apagar las luces.
         Encender el ventilador.
+
+-Notificación de Ambiente Confortable
+
+Objetivo: Enviar una notificación cuando la temperatura y la humedad están en niveles confortables.
+
+    Trigger:
+        La temperatura está entre 20°C y 24°C.
+        La humedad está entre 40% y 60%.
+
+    Condición: Ambas (temperatura y humedad en rangos confortables).
+
+    Acción: Enviar una notificación al teléfono indicando que el ambiente es confortable.
+
+-Apagado de Ventilador y Luces al Salir
+
+Objetivo: Apagar el ventilador y las luces cuando se detecta que todos han salido de casa.
+
+    Trigger: Todos los dispositivos de rastreo de ubicación están fuera de casa.
+
+    Condición: Ninguna (se ejecuta siempre).
+
+    Acción:
+        Apagar el ventilador.
+        Apagar las luces.
